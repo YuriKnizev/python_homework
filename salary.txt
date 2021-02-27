@@ -1,0 +1,4 @@
+Ivanov 15000
+Petrov 21000
+Sidorov 19000
+Kobakov 39000
